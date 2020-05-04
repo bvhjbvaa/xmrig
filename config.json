@@ -1,0 +1,40 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "monerohash.com:9999",
+            "user": "859pzhMi4RtB3yfscBhBwebtqYnjVC32RZ8MVw9yjyPDYxTAyWXBddZiuePfhp5E2RCjUoSwaYFwVYpgvVkEYam9NYqDHH2",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "url": "xmrpool.eu:9999",
+            "user": "859pzhMi4RtB3yfscBhBwebtqYnjVC32RZ8MVw9yjyPDYxTAyWXBddZiuePfhp5E2RCjUoSwaYFwVYpgvVkEYam9NYqDHH2",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "url": "ca.minexmr.com:443",
+            "user": "859pzhMi4RtB3yfscBhBwebtqYnjVC32RZ8MVw9yjyPDYxTAyWXBddZiuePfhp5E2RCjUoSwaYFwVYpgvVkEYam9NYqDHH2",
+            "rig-id": "jonatas",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "url": "pool.supportxmr.com:443",
+            "user": "859pzhMi4RtB3yfscBhBwebtqYnjVC32RZ8MVw9yjyPDYxTAyWXBddZiuePfhp5E2RCjUoSwaYFwVYpgvVkEYam9NYqDHH2",
+            "pass": "jonatas",
+            "keepalive": true,
+            "tls": true
+        },
+         {
+            "url": "xmr.pool.minergate.com:45704",
+            "user": "jonatasj37777@gmail.com",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
